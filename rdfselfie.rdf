@@ -1,0 +1,151 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dc="http://dublincore.org/documents/dcmi-namespace/"
+    xmlns:mo="http://purl.org/ontology/mo/"
+    xmlns:geonames="http://www.geonames.org/ontology#">
+    
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Jimi_Hendrix">
+  <dc:type>Guitarist</dc:type>	
+        <foaf:homepage rdf:resource="https://www.jimihendrix.com/"/>
+        <foaf:familyName>Hendrix</foaf:familyName>
+        <foaf:givenName>Jimi Allen Hendrix</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Blues Rock</foaf:project>
+  <foaf:birthday>18 Sept 1970</foaf:birthday>
+  <mo:musicGroup>The Jimi Hendrix Experience</mo:musicGroup>
+  <geonames:countryCode>Seattle</geonames:countryCode>
+        </foaf:Person>
+ 
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Joe_Satriani">
+	<dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="http://www.satriani.com/"/>
+        <foaf:familyName>Satriani</foaf:familyName>
+        <foaf:givenName>Joseph Satriani</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Instrumental Rock</foaf:project>
+  <foaf:birthday>15 July 1956</foaf:birthday>
+  <mo:musicGroup>Deep Purple</mo:musicGroup>
+  <geonames:countryCode>New York</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Steve_Vai">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="https://www.vai.com/"/>
+        <foaf:familyName>Vai</foaf:familyName>
+        <foaf:givenName>Steve</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Jazz</foaf:project>
+  <foaf:birthday>6 Juny 1960</foaf:birthday>
+  <mo:musicGroup>White Snake</mo:musicGroup>
+  <geonames:countryCode>New York</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/John_Petrucci">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="http://johnpetrucci.com/"/>
+        <foaf:familyName>Petrucci</foaf:familyName>
+        <foaf:givenName>John Petrucci</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Metal Rock</foaf:project>
+  <foaf:birthday>12 July 1967</foaf:birthday>
+  <mo:musicGroup>Dream Theater</mo:musicGroup>
+  <geonames:countryCode>New York</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Yngwie_Malmsteen">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="https://www.yngwiemalmsteen.com/"/>
+        <foaf:familyName>Lannerbäck</foaf:familyName>
+        <foaf:givenName>Lars Johan Yngve Lannerbäck</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Heavy Metal</foaf:project>
+  <foaf:birthday>30 Juny 1963</foaf:birthday>
+  <mo:musicGroup>Alcatrazz</mo:musicGroup>
+  <geonames:countryCode>Stockholm</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Paul_Gilbert">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="http://www.paulgilbert.com/"/>
+        <foaf:familyName>Gilbert</foaf:familyName>
+        <foaf:givenName>Paul Brandon</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Instrumental Rock</foaf:project>
+  <foaf:birthday>6 November 1966</foaf:birthday>
+  <mo:musicGroup>Yellow Matter Custard</mo:musicGroup>
+  <geonames:countryCode>Carbondale</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Nuno_Bettencourt">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="http://nunobettencourt.com/"/>
+        <foaf:familyName>Bettencourt</foaf:familyName>
+        <foaf:givenName>Nuno Duarte Gil Mendes Bettencourt</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Hard Rock</foaf:project>
+  <foaf:birthday>20 Sept 1966</foaf:birthday>
+  <mo:musicGroup>Extreme</mo:musicGroup>
+  <geonames:countryCode>Portugal</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Eddie_Van_Halen">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="http://van-halen.com/"/>
+        <foaf:familyName>Halen</foaf:familyName>
+        <foaf:givenName>Edward Lodewijk van Halen</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Hard Rock</foaf:project>
+  <foaf:birthday>26 Jan 1955</foaf:birthday>
+  <mo:musicGroup>Van Halen</mo:musicGroup>
+  <geonames:countryCode>Belanda</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Michael_Schenker">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="http://michaelschenkerhimself.com/"/>
+        <foaf:familyName>Schenker</foaf:familyName>
+        <foaf:givenName>Michael Schenker</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Heavy Metal</foaf:project>
+  <foaf:birthday>10 Jan 1955</foaf:birthday>
+  <mo:musicGroup>McAuley Schenker Group</mo:musicGroup>
+        <geonames:countryCode>Jerman</geonames:countryCode>
+  </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Brian_May">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="https://brianmay.com/"/>
+        <foaf:familyName>May</foaf:familyName>
+        <foaf:givenName>Brian Harold May</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Rock</foaf:project>
+  <foaf:birthday>19 July 1947</foaf:birthday>
+  <mo:musicGroup>Queen</mo:musicGroup>
+  <geonames:countryCode>BritaniaRaya</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Slash_(musisi)">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="http://www.slashonline.com/livingthedreamtour/"/>
+        <foaf:familyName>Hudson</foaf:familyName>
+        <foaf:givenName>Saul Hudson</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Hard Rock</foaf:project>
+  <foaf:birthday>23 July 1965</foaf:birthday>
+  <mo:musicGroup>Guns N' Roses</mo:musicGroup>
+  <geonames:countryCode>London</geonames:countryCode>
+        </foaf:Person>
+  
+  <foaf:Person rdf:about="https://id.wikipedia.org/wiki/Eric_Clapton">
+        <dc:type>Guitarist</dc:type>
+  <foaf:homepage rdf:resource="https://www.ericclapton.com/"/>
+        <foaf:familyName>Clapton</foaf:familyName>
+        <foaf:givenName>Eric Patrick Clapton</foaf:givenName>
+  <foaf:gender>Male</foaf:gender>
+  <foaf:project>Reggea</foaf:project>
+  <foaf:birthday>30 March 1945</foaf:birthday>
+  <mo:musicGroup>Non Group</mo:musicGroup>
+  <geonames:countryCode>England</geonames:countryCode>
+        </foaf:Person>
+</rdf:RDF>
